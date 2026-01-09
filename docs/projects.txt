@@ -1,0 +1,47 @@
+🛠️ Projetos Práticos por Fase
+Fase 1 – Fundamentos (Meses 1–3)
+- Projeto 1: Análise exploratória de dados
+- Dataset: preços de imóveis ou dados de saúde pública.
+- Objetivo: limpar, visualizar e extrair insights básicos.
+- Projeto 2: Previsão simples
+- Modelo de regressão linear para prever preços de casas.
+
+Fase 2 – Machine Learning Clássico (Meses 4–6)
+- Projeto 3: Classificador de textos
+- Dataset: e-mails (spam vs não spam).
+- Objetivo: aplicar regressão logística, Naive Bayes e Random Forest.
+- Projeto 4: Clustering de clientes
+- Dataset: dados de compras.
+- Objetivo: segmentar clientes com K-means.
+
+Fase 3 – Deep Learning (Meses 7–9)
+- Projeto 5: Classificador de imagens (CNN)
+- Dataset: CIFAR-10 ou MNIST.
+- Objetivo: treinar uma rede neural convolucional para identificar objetos.
+- Projeto 6: Previsão de séries temporais (RNN/LSTM)
+- Dataset: vendas mensais ou dados meteorológicos.
+- Objetivo: prever valores futuros com LSTM.
+
+Fase 4 – Modelos Avançados e IA Generativa (Meses 10–12)
+- Projeto 7: Chatbot com NLP
+- Dataset: FAQs de uma empresa ou dataset de conversas.
+- Objetivo: usar Transformers (BERT ou GPT) para responder perguntas.
+- Projeto 8: Modelo generativo
+- Dataset: COCO (imagens) ou MIDI (música).
+- Objetivo: gerar imagens ou composições musicais com GANs ou Diffusion Models.
+
+Fase 5 – Produção e Especialização (Meses 13–18)
+- Projeto 9: Deploy de modelo em nuvem
+- Objetivo: criar uma API REST que serve um modelo de ML em AWS/Azure/GCP.
+- Projeto 10: Projeto de especialização
+- Exemplos:
+- Visão Computacional: sistema de reconhecimento facial.
+- NLP: recomendador de artigos ou assistente virtual.
+- IA Generativa: gerador de imagens customizadas para marketing.
+- Reforço: agente que joga um game simples (ex.: CartPole).
+
+🎯 Estratégia para os Projetos
+- Comece simples e vá aumentando a complexidade.
+- Documente cada projeto no GitHub com README detalhado.
+- Escreva artigos no Medium/LinkedIn explicando seus aprendizados.
+- Use datasets reais (Kaggle, UCI, Hugging Face) para dar credibilidade.
