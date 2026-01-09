@@ -1,0 +1,19 @@
+🗂️ Estratégia de Portfólio em GitHub
+Estrutura de Repositórios
+- Nome claro e profissional: house-price-prediction, customer-clustering, image-classifier-CNN.
+- README detalhado em cada projeto:
+- Objetivo do projeto.
+- Dataset utilizado (com link).
+- Tecnologias e bibliotecas.
+- Passo a passo para rodar o código.
+- Resultados (gráficos, métricas, prints).
+- Organização:
+- Pasta notebooks/ para experimentos.
+- Pasta src/ para código limpo e modular.
+- Pasta docs/ para relatórios ou artigos.
+Projetos-chave para destacar
+- Fundamentos: análise exploratória + regressão simples.
+- ML clássico: classificador de textos e clustering de clientes.
+- Deep Learning: CNN para imagens e LSTM para séries temporais.
+- Avançado: chatbot com NLP e modelo generativo.
+- Produção: API REST com deploy em nuvem.
