@@ -1,0 +1,40 @@
+✅ Checklist de Estudos e Projetos em IA
+Fase 1 – Fundamentos (Meses 1–3)
+- [ ] Revisar álgebra linear (operações com matrizes e vetores).
+- [ ] Estudar cálculo (derivadas e gradientes).
+- [ ] Reforçar probabilidade e estatística.
+- [ ] Praticar Python com NumPy e Pandas.
+- [ ] Fazer análise exploratória de um dataset real.
+- [ ] Criar modelo de regressão linear para prever preços de casas.
+
+Fase 2 – Machine Learning Clássico (Meses 4–6)
+- [ ] Estudar regressão logística, árvores de decisão e Random Forest.
+- [ ] Implementar algoritmos de clustering (K-means, DBSCAN).
+- [ ] Criar classificador de textos (spam vs não spam).
+- [ ] Segmentar clientes com clustering.
+- [ ] Participar de pelo menos uma competição no Kaggle.
+
+Fase 3 – Deep Learning (Meses 7–9)
+- [ ] Implementar redes neurais básicas (MLP).
+- [ ] Treinar CNN para classificar imagens (CIFAR-10 ou MNIST).
+- [ ] Criar modelo LSTM para previsão de séries temporais.
+- [ ] Documentar projetos no GitHub com README detalhado.
+
+Fase 4 – Modelos Avançados e IA Generativa (Meses 10–12)
+- [ ] Estudar Transformers (BERT, GPT).
+- [ ] Criar chatbot simples com NLP.
+- [ ] Implementar GAN ou Diffusion Model para gerar imagens/música.
+- [ ] Publicar artigo explicando um dos projetos.
+
+Fase 5 – Produção e Especialização (Meses 13–18)
+- [ ] Aprender MLOps (MLflow, DVC, Docker).
+- [ ] Deploy de modelo em nuvem (AWS/Azure/GCP).
+- [ ] Criar API REST para servir modelo de ML.
+- [ ] Escolher área de especialização (Visão, NLP, Generativa ou Reforço).
+- [ ] Desenvolver projeto de nível profissional nessa área.
+- [ ] Compartilhar resultados em GitHub + LinkedIn.
+
+🎯 Como usar
+- Marque cada item conforme concluir.
+- Revise o checklist semanalmente para manter disciplina.
+- Use como guia para entrevistas: mostra que você seguiu um plano estruturado.
