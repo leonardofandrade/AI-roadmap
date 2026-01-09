@@ -1,0 +1,64 @@
+Fase 1 – Fundamentos (Meses 1–3)
+- Cursos
+- Mathematics for Machine Learning (Coursera – Imperial College London)
+- Python for Everybody (Coursera – University of Michigan)
+- Livros
+- Think Stats (Allen B. Downey – gratuito online)
+- Linear Algebra Done Right (Sheldon Axler)
+- Ferramentas
+- Jupyter Notebook, NumPy, Pandas, Matplotlib
+- Datasets
+- UCI Machine Learning Repository (archive.ics.uci.edu in Bing)
+
+Fase 2 – Machine Learning Clássico (Meses 4–6)
+- Cursos
+- Machine Learning (Andrew Ng – Coursera)
+- Applied Machine Learning in Python (Coursera – University of Michigan)
+- Livros
+- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)
+- Ferramentas
+- Scikit-learn
+- Datasets
+- Kaggle Datasets
+
+Fase 3 – Deep Learning (Meses 7–9)
+- Cursos
+- Deep Learning Specialization (Andrew Ng – Coursera)
+- Fast.ai (gratuito, muito prático)
+- Livros
+- Deep Learning (Goodfellow, Bengio, Courville)
+- Ferramentas
+- PyTorch, TensorFlow, Keras
+- Datasets
+- MNIST (dígitos manuscritos)
+- CIFAR-10 (imagens de objetos)
+
+Fase 4 – Modelos Avançados e IA Generativa (Meses 10–12)
+- Cursos
+- Natural Language Processing Specialization (Coursera – Deeplearning.ai)
+- Hugging Face Transformers Course (gratuito)
+- Livros
+- Transformers for Natural Language Processing (Denis Rothman)
+- Ferramentas
+- Hugging Face, OpenAI APIs, Stable Diffusion
+- Datasets
+- Wikipedia dumps (NLP)
+- COCO Dataset (visão computacional)
+
+Fase 5 – Produção e Especialização (Meses 13–18)
+- Cursos
+- MLOps Specialization (Coursera – Deeplearning.ai)
+- Data Engineering on Google Cloud (Coursera)
+- Livros
+- Designing Machine Learning Systems (Chip Huyen)
+- Ferramentas
+- MLflow, DVC, Docker, Kubernetes
+- Deploy em AWS, Azure ou GCP
+- Datasets
+- Escolher datasets específicos da área de especialização (ex.: imagens médicas, textos jurídicos, dados financeiros).
+
+🎯 Estratégia de Uso dos Recursos
+- Cursos → absorver teoria e prática guiada.
+- Livros → aprofundar conceitos e ter referência sólida.
+- Ferramentas → aplicar imediatamente em projetos.
+- Datasets → treinar e validar modelos reais.
