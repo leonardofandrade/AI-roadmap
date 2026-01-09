@@ -1,0 +1,62 @@
+📅 Calendário de Estudos em IA
+Meses 1–3 | Fundamentos
+- Mês 1:
+- Revisar álgebra linear e cálculo.
+- Python avançado (NumPy, Pandas).
+- Mês 2:
+- Probabilidade e estatística aplicadas.
+- Visualização de dados (Matplotlib, Seaborn).
+- Mês 3:
+- Introdução ao ML (regressão linear/logística).
+- Projeto: previsão de preços de imóveis.
+
+Meses 4–6 | Machine Learning Clássico
+- Mês 4:
+- Árvores de decisão, Random Forest, SVM.
+- Mês 5:
+- Clustering (K-means, DBSCAN).
+- Projeto: segmentação de clientes.
+- Mês 6:
+- Engenharia de features e validação cruzada.
+- Projeto: classificador de textos (spam vs não spam).
+
+Meses 7–9 | Deep Learning
+- Mês 7:
+- Redes neurais básicas (MLP).
+- PyTorch/TensorFlow.
+- Mês 8:
+- CNNs para visão computacional.
+- Projeto: classificador de imagens (CIFAR-10/MNIST).
+- Mês 9:
+- RNNs/LSTMs para séries temporais.
+- Projeto: previsão de vendas ou clima.
+
+Meses 10–12 | Modelos Avançados e IA Generativa
+- Mês 10:
+- Transformers (BERT, GPT).
+- Projeto: chatbot simples.
+- Mês 11:
+- GANs e Diffusion Models.
+- Projeto: gerador de imagens/música.
+- Mês 12:
+- Revisão geral + portfólio no GitHub.
+- Publicar artigo sobre aprendizado.
+
+Meses 13–18 | Produção e Especialização
+- Mês 13–14:
+- MLOps (MLflow, DVC, Docker).
+- Projeto: deploy de modelo em nuvem.
+- Mês 15–16:
+- Monitoramento e escalabilidade.
+- Projeto: API REST de IA.
+- Mês 17–18:
+- Escolher especialização (Visão, NLP, Generativa ou Reforço).
+- Projeto final de nível profissional.
+
+🎯 Como usar
+- Veja cada mês como uma meta clara.
+- Marque o que foi concluído (como checklist).
+- Ao final de cada fase, revise e publique seus resultados no GitHub/LinkedIn.
+
+Leonardo, agora você tem um calendário compacto + checklist + roadmap visual. Isso é praticamente um plano de carreira em IA.
+👉 Quer que eu monte também uma estratégia de portfólio (como organizar seus projetos no GitHub e LinkedIn para atrair oportunidades)?
